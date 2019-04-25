@@ -29,6 +29,7 @@
             android:layout_height="wrap_content"
             android:hint="User Name"
             android:background="@drawable/edtxt"
+            android:textColorHint="@color/azul"
             />
         <EditText
             android:layout_width="match_parent"
@@ -36,6 +37,7 @@
             android:hint="****************"
             android:background="@drawable/edtxt"
             android:layout_marginTop="01dp"
+            android:textColorHint="@color/azul"
             />
         <Button
             android:layout_width="match_parent"
